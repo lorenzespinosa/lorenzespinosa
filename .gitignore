@@ -1,0 +1,10 @@
+
+# AI working files
+CLAUDE.md
+.planning/
+.gsd/
+
+# Environment
+.env
+.env.*
+!.env.example

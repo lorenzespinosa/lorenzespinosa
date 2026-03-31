@@ -1,0 +1,29 @@
+name: Auto-Update README Timestamp
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Every Monday at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update timestamp
+        run: |
+          TIMESTAMP=$(date -u +"%B %d, %Y")
+          sed -i "s/{{LAST_UPDATED}}/$TIMESTAMP/g" README.md
+          sed -i "s/<!-- Last auto-updated: .* -->/<!-- Last auto-updated: $TIMESTAMP -->/" README.md
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && exit 0
+          git add README.md
+          git commit -m "chore: auto-update README timestamp"
+          git push
