@@ -42,7 +42,7 @@ spec:
   ai_agents:
     production: LLOpenClaw v5.0 — multi-agent Slack bot for legal ops
     framework: OpenClaw (orchestrator + specialist agents with human-in-the-loop)
-    models: Claude Sonnet 4.6 (primary) + free models (heartbeat, compaction)
+    models: Claude Sonnet 4 (primary) + free models (heartbeat, compaction)
     tools: 21 MCP tools via n8n — zero tokens on deterministic tasks
   exploring: [LangGraph, RAG pipelines, Temporal workflows, self-healing systems]
 ```
