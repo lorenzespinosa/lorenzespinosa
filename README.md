@@ -466,7 +466,7 @@ flowchart TD
 </p>
 
 <p align="center">
-  <sub>Automation Architect &nbsp;·&nbsp; currently building legal ops automation at <a href="https://www.leppardlaw.com">Leppard Law</a> &nbsp;·&nbsp; Orlando, FL (EST) &nbsp;·&nbsp; available for remote projects worldwide</sub>
+  <sub>Automation Architect &nbsp;·&nbsp; building legal ops automation at <a href="https://www.leppardlaw.com">Leppard Law</a> &nbsp;·&nbsp; fully remote &nbsp;·&nbsp; available for projects worldwide</sub>
 </p>
 
 <a href="https://github.com/lorenzespinosa">
