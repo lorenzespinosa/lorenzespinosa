@@ -22,6 +22,21 @@
 
 <br>
 
+<p align="center">
+  <b>I help ops-heavy businesses replace manual, repetitive work with reliable AI-powered automation.</b><br>
+  <sub>Webhook-driven systems that validate, retry, log, and recover — so your team stops copy-pasting between tools and starts shipping. <b>50+ processes automated · $800K+ saved · zero silent failures.</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20new%20projects-0d1117?style=flat-square&labelColor=0d1117&color=9ece6a" />
+  &nbsp;
+  <a href="mailto:renzespinosa13@gmail.com?subject=Automation%20project%20inquiry"><img src="https://img.shields.io/badge/Start%20a%20project%20%E2%86%92-0d1117?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lorenz-leslie-espinosa/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
+</p>
+
+<br>
+
 ```yaml
 apiVersion: automation/v1
 kind: Engineer
@@ -58,6 +73,63 @@ spec:
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2333&height=2" width="100%">
+
+## Work With Me
+
+> I turn manual, error-prone processes into systems that run themselves. Four ways to start — every engagement ships with error handling, audit logging, and documentation.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔍 Automation Audit</h3>
+
+I map your current workflows, find the highest-ROI things to automate, and hand you a prioritized roadmap with effort vs. impact.
+
+<sub><b>Best first step</b> · ~1 week · low commitment</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚙️ Build &amp; Ship</h3>
+
+Fixed-scope automation built end-to-end: trigger → validate → process → integrate → audit log. Tested, documented, handed off.
+
+<sub><b>Most popular</b> · 2–4 weeks · fixed scope</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 AI Agents &amp; Orchestration</h3>
+
+Multi-agent systems, LLM workflows, and MCP tooling that handle real ops tasks — with human-in-the-loop gates so nothing goes rogue.
+
+<sub>Custom · for teams ready to use AI in production</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔁 Fractional Automation Engineer</h3>
+
+I own your automation backlog: maintain what's live, fix what breaks, and ship new workflows every month. Like an in-house engineer, part-time.
+
+<sub>Ongoing · monthly retainer</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub><b>How I work:</b> &nbsp; 🔎 Discovery (free 15-min call) &nbsp;→&nbsp; 📐 Scope &amp; proposal &nbsp;→&nbsp; 🛠️ Build &amp; test &nbsp;→&nbsp; 🚀 Launch + docs &nbsp;→&nbsp; 🔄 Support</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:renzespinosa13@gmail.com?subject=Automation%20project%20inquiry&body=Hi%20Lorenz%2C%0A%0AHere's%20what%20I%20need%20help%20with%3A%0A%0AGoal%3A%0ASystems%2Ftools%20involved%3A%0ATimeline%3A%0A"><img src="https://img.shields.io/badge/Tell%20me%20what%20to%20automate%20%E2%86%92-0d1117?style=for-the-badge&logo=gmail&logoColor=9ece6a" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2333&height=2" width="100%">
 
@@ -380,13 +452,19 @@ flowchart TD
 
 <br>
 
+<h3 align="center">Got a process that eats your team's time? Let's automate it.</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/lorenz-leslie-espinosa/"><img src="https://img.shields.io/badge/Let's%20Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>&nbsp;&nbsp;
-  <a href="mailto:renzespinosa13@gmail.com"><img src="https://img.shields.io/badge/Work%20With%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
+  <sub>Tell me your <b>goal</b>, the <b>tools involved</b>, and your <b>timeline</b> — I'll reply with whether it's a fit and the fastest path to ship it.</sub>
 </p>
 
 <p align="center">
-  <sub>Building legal ops automation at <a href="https://www.leppardlaw.com">Leppard Law</a> &nbsp;·&nbsp; Orlando, FL</sub>
+  <a href="mailto:renzespinosa13@gmail.com?subject=Automation%20project%20inquiry&body=Hi%20Lorenz%2C%0A%0AGoal%3A%0ASystems%2Ftools%20involved%3A%0ATimeline%3A%0A"><img src="https://img.shields.io/badge/Start%20a%20Project-0d1117?style=for-the-badge&logo=gmail&logoColor=9ece6a" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lorenz-leslie-espinosa/"><img src="https://img.shields.io/badge/Let's%20Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
+</p>
+
+<p align="center">
+  <sub>Automation Architect &nbsp;·&nbsp; currently building legal ops automation at <a href="https://www.leppardlaw.com">Leppard Law</a> &nbsp;·&nbsp; Orlando, FL (EST) &nbsp;·&nbsp; available for remote projects worldwide</sub>
 </p>
 
 <a href="https://github.com/lorenzespinosa">
