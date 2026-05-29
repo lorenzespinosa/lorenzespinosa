@@ -30,9 +30,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20new%20projects-0d1117?style=flat-square&labelColor=0d1117&color=9ece6a" />
   &nbsp;
+  <a href="https://lorenzespinosa.github.io"><img src="https://img.shields.io/badge/%E2%97%86%20View%20Portfolio%20%26%20Services-0d1117?style=for-the-badge&logoColor=9ece6a&color=0d1117&labelColor=0d1117" /></a>
+  &nbsp;
   <a href="mailto:renzespinosa13@gmail.com?subject=Automation%20project%20inquiry"><img src="https://img.shields.io/badge/Start%20a%20project%20%E2%86%92-0d1117?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lorenz-leslie-espinosa/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
+  <a href="https://www.linkedin.com/in/lorenz-leslie-espinosa/"><img src="https://img.shields.io/badge/Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
 </p>
 
 <br>
