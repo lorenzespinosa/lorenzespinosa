@@ -1,11 +1,11 @@
 <a href="https://github.com/lorenzespinosa">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=220&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=Automation%20Architect%20%E2%94%82%20Cost-Resilient%20Deterministic%20Infrastructure%20%E2%94%82%20Minimal%20AI&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=220&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=Automation%20Architect%20%E2%94%82%20n8n%20%26%20AI%20Agent%20Developer%20%E2%94%82%20Self-Hosted%20%26%20Reliable&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 </a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/50%2B-Automated%20Processes-0d1117?style=flat-square&labelColor=0d1117&color=7aa2f7" />
   <img src="https://img.shields.io/badge/%24800K%2B-Cost%20Savings-0d1117?style=flat-square&labelColor=0d1117&color=9ece6a" />
-  <img src="https://img.shields.io/badge/Deterministic%20Core-Zero%20Tokens-0d1117?style=flat-square&labelColor=0d1117&color=7dcfff" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Done%20Right-0d1117?style=flat-square&labelColor=0d1117&color=7dcfff" />
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=600&height=25&lines=if+deterministic+%E2%86%92+hard-code+it+(0+tokens);minimize+AI+%E2%86%92+kill+the+token+tax;self-hosted+%C2%B7+n8n+%C2%B7+Docker+%C2%B7+Traefik+%C2%B7+Supabase;AI+on+a+leash+%C2%B7+hybrid+routing+%C2%B7+semantic+cache" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=600&height=25&lines=n8n+%C2%B7+AI+agents+%C2%B7+workflow+automation;fix+the+process+%E2%86%92+cut+the+SaaS+bloat;self-hosted+%C2%B7+private+%C2%B7+reliable;AI+where+it+earns+its+keep" />
 </p>
 
 <br>
 
 <p align="center">
-  <b>I build cost-resilient, deterministic automation that minimizes AI — so ops-heavy businesses escape runaway token bills, third-party outages, and hallucinations.</b><br>
-  <sub>Self-hosted, webhook-driven systems that validate, retry, log, and recover — heavy lifting kept local and predictable. <b>50+ processes automated · $800K+ saved · zero tokens on the deterministic core.</b></sub>
+  <b>I build reliable, self-hosted AI automation for ops-heavy businesses — fixing the broken process and cutting SaaS/Zapier bloat first, then adding AI exactly where it earns its keep.</b><br>
+  <sub>Self-hosted, webhook-driven systems that validate, retry, log, and recover — heavy lifting kept local, private, and reliable. <b>50+ processes automated · $800K+ saved · self-hosted & private.</b></sub>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ apiVersion: automation/v1
 kind: Engineer
 metadata:
   name: Lorenz Leslie Espinosa
-  role: Automation Architect — Cost-Resilient, Deterministic Infrastructure
+  role: Automation Architect — n8n & AI Agent Developer
 spec:
   orgs:
     - name: Leppard Law
@@ -55,12 +55,12 @@ spec:
     pattern: self-hosted, webhook-driven, API-first (Docker Compose + Traefik)
     buffer_layer: Airtable (staging between systems)
     error_handling: retry 3x with backoff → fallback path → audit log → alert
-    principle: deterministic-first · minimize AI · never fail silently
-  ai_usage:               # AI is the exception, not the default
-    production: LLOpenClaw v5.0 — Slack ops bot, deterministic core + human-in-the-loop
-    leash: 21 MCP tools via n8n — zero tokens on deterministic tasks
-    cost_controls: [semantic caching, hybrid model routing, local/edge inference]
-    models: cheapest capable model per task (capped) — not a frontier model by default
+    principle: fix the process first · self-hosted · never fail silently
+  ai_usage:               # placed where it earns its keep, not bolted on
+    production: LLOpenClaw v5.0 — Slack ops bot, AI agents + human-in-the-loop
+    discipline: 21 MCP tools via n8n — deterministic core, AI only where it pays off
+    efficiency: [semantic caching, hybrid model routing, local/edge inference]
+    models: cheapest capable model per task — no slop, no surprise bills
   exploring: [Qdrant local RAG, local SLMs (Phi/Qwen), Temporal workflows, edge inference]
 ```
 
@@ -80,7 +80,7 @@ spec:
 
 ## Work With Me
 
-> I turn manual, error-prone processes into deterministic systems that run on your own infrastructure — minimizing AI so they stay cheap to run. Four ways to start; every engagement ships with error handling, audit logging, and documentation.
+> I turn manual, error-prone processes into reliable systems that run on your own infrastructure — fixing the process and cutting SaaS bloat, with AI placed only where it earns its keep. Four ways to start; every engagement ships with error handling, audit logging, and documentation.
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ spec:
 
 <h3>🔍 Automation Audit</h3>
 
-I map your current workflows, find the highest-ROI things to automate, flag where you're overpaying a cloud LLM for work deterministic logic could do for free, and hand you a prioritized roadmap with effort vs. impact.
+I map your current workflows, find the highest-ROI things to automate, flag the overlapping tools and SaaS subscriptions you're overpaying for, and hand you a prioritized roadmap with effort vs. impact.
 
 <sub><b>Best first step</b> · ~1 week · low commitment</sub>
 
@@ -106,11 +106,11 @@ Fixed-scope automation built end-to-end: trigger → validate → process → in
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 Lean AI &amp; Hybrid Orchestration</h3>
+<h3>🤖 AI Agents &amp; Orchestration</h3>
 
-When you genuinely need a model: hybrid routing to the cheapest capable one, semantic caching to kill repeat calls, and human-in-the-loop gates — so neither the agent nor the token bill goes rogue.
+AI agents that do real ops work — wired to the right tools, gated by human approval, and kept efficient so they don't sprawl or run up surprise bills. AI placed where it earns its keep, not bolted onto everything.
 
-<sub>Custom · for teams who need AI without the bill</sub>
+<sub>Custom · for teams putting AI into production</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -145,9 +145,9 @@ I own your automation backlog: maintain what's live, fix what breaks, and ship n
 
 <h3>🟢 LLOpenClaw</h3>
 
-**Ops Slack bot — deterministic core, AI on a leash**
+**Ops Slack bot — AI agents done right, human-gated**
 
-Orchestrator delegates to specialist agents (exec, research, ops) with human-in-the-loop gates, n8n MCP integration (21 tools), identity stack, and hybrid model routing — zero tokens on the deterministic core.
+Orchestrator delegates to specialist agents (exec, research, ops) with human-in-the-loop gates, n8n MCP integration (21 tools), identity stack, and hybrid model routing — efficient, reliable, and gated where it counts.
 
 <sub>OpenClaw · Slack · n8n MCP · Claude · Lawmatics · Clio</sub>
 
@@ -369,7 +369,7 @@ flowchart TD
 </td>
 <td valign="top" width="33%">
 
-**AI — Minimized & On a Leash**
+**AI — Where It Earns Its Keep**
 
 <img src="https://img.shields.io/badge/Hybrid%20Routing-0d1117?style=flat-square&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/Semantic%20Cache-0d1117?style=flat-square&logoColor=7aa2f7" />
@@ -448,12 +448,12 @@ flowchart TD
 <br>
 
 <p align="center">
-  <sub><i>"I don't reach for AI by default — I reach for the cheapest thing that's predictable. A model only earns a place when nothing else can do the job."</i></sub>
+  <sub><i>"I'm not here to bolt AI onto everything. I fix the process, cut the bloat, and put AI exactly where it earns its keep — so what you ship is reliable, private, and worth paying for."</i></sub>
 </p>
 
 <br>
 
-<h3 align="center">Got a process bleeding hours — or an AI bill bleeding margin? Let's fix it.</h3>
+<h3 align="center">Drowning in tools and subscriptions — or a process that still eats hours? Let's fix it.</h3>
 
 <p align="center">
   <sub>Tell me your <b>goal</b>, the <b>tools involved</b>, and your <b>timeline</b> — I'll reply with whether it's a fit and the fastest path to ship it.</sub>
