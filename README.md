@@ -1,5 +1,5 @@
 <a href="https://github.com/lorenzespinosa">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=220&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=AI%20Systems%20%26%20Automation%20Architect%20%E2%94%82%20n8n%20%26%20AI%20Agent%20Developer%20%E2%94%82%20Self-Hosted&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=220&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=AI%20Systems%20%26%20Automation%20Architect%20%E2%94%82%20n8n%20Expert%20%C2%B7%20Workflow%20Automation%20%E2%94%82%20Self-Hosted&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 </a>
 
 <p align="center">
@@ -23,8 +23,8 @@
 <br>
 
 <p align="center">
-  <b>I build reliable, self-hosted AI automation for ops-heavy businesses — fixing the broken process and cutting SaaS/Zapier bloat first, then adding AI exactly where it earns its keep.</b><br>
-  <sub>Self-hosted, webhook-driven systems that validate, retry, log, and recover — heavy lifting kept local, private, and reliable. <b>50+ processes automated · $800K+ saved · self-hosted & private.</b></sub>
+  <b>I build reliable, self-hosted AI automation for ops-heavy businesses, fixing the broken process and cutting SaaS/Zapier bloat first, then adding AI exactly where it earns its keep.</b><br>
+  <sub>Self-hosted, webhook-driven systems that validate, retry, log, and recover, heavy lifting kept local, private, and reliable. <b>50+ processes automated · $800K+ saved · self-hosted & private.</b></sub>
 </p>
 
 <p align="center">
@@ -44,11 +44,11 @@ apiVersion: automation/v1
 kind: Engineer
 metadata:
   name: Lorenz Leslie Espinosa
-  role: AI Systems & Automation Architect — n8n & AI Agent Developer
+  role: AI Systems & Automation Architect · n8n Expert · Workflow Automation
 spec:
   orgs:
     - name: Leppard Law
-      focus: Legal ops — intake, case management, billing, client comms
+      focus: Legal ops, intake, case management, billing, client comms
     - name: Le Cordon Bleu International
       focus: IT infrastructure & marketing automation across multi-tenant Microsoft Cloud
   architecture:
@@ -57,10 +57,10 @@ spec:
     error_handling: retry 3x with backoff → fallback path → audit log → alert
     principle: fix the process first · self-hosted · never fail silently
   ai_usage:               # placed where it earns its keep, not bolted on
-    production: LLOpenClaw v5.0 — Slack ops bot, AI agents + human-in-the-loop
-    discipline: 21 MCP tools via n8n — deterministic core, AI only where it pays off
+    production: LLOpenClaw v5.0, Slack ops bot, AI agents + human-in-the-loop
+    discipline: 21 MCP tools via n8n, deterministic core, AI only where it pays off
     efficiency: [semantic caching, hybrid model routing, local/edge inference]
-    models: cheapest capable model per task — no slop, no surprise bills
+    models: cheapest capable model per task, no slop, no surprise bills
   exploring: [Qdrant local RAG, local SLMs (Phi/Qwen), Temporal workflows, edge inference]
 ```
 
@@ -80,7 +80,7 @@ spec:
 
 ## Work With Me
 
-> I turn manual, error-prone processes into reliable systems that run on your own infrastructure — fixing the process and cutting SaaS bloat, with AI placed only where it earns its keep. Four ways to start; every engagement ships with error handling, audit logging, and documentation.
+> I turn manual, error-prone processes into reliable systems that run on your own infrastructure: fixing the process and cutting SaaS bloat, with AI placed only where it earns its keep. Four ways to start; every engagement ships with error handling, audit logging, and documentation.
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ Fixed-scope automation built end-to-end: trigger → validate → process → in
 
 <h3>🤖 AI Agents &amp; Orchestration</h3>
 
-AI agents that do real ops work — wired to the right tools, gated by human approval, and kept efficient so they don't sprawl or run up surprise bills. AI placed where it earns its keep, not bolted onto everything.
+AI agents that do real ops work, wired to the right tools, gated by human approval, and kept efficient so they don't sprawl or run up surprise bills. AI placed where it earns its keep, not bolted onto everything.
 
 <sub>Custom · for teams putting AI into production</sub>
 
@@ -137,7 +137,7 @@ I own your automation backlog: maintain what's live, fix what breaks, and ship n
 
 ## Flagship Systems
 
-> Not workflows — **production systems** with error handling, observability, and measurable business outcomes.
+> Not workflows, **production systems** with error handling, observability, and measurable business outcomes.
 
 <table>
 <tr>
@@ -145,9 +145,9 @@ I own your automation backlog: maintain what's live, fix what breaks, and ship n
 
 <h3>🟢 LLOpenClaw</h3>
 
-**Ops Slack bot — AI agents done right, human-gated**
+**Ops Slack bot: AI agents done right, human-gated**
 
-Orchestrator delegates to specialist agents (exec, research, ops) with human-in-the-loop gates, n8n MCP integration (21 tools), identity stack, and hybrid model routing — efficient, reliable, and gated where it counts.
+Orchestrator delegates to specialist agents (exec, research, ops) with human-in-the-loop gates, n8n MCP integration (21 tools), identity stack, and hybrid model routing: efficient, reliable, and gated where it counts.
 
 <sub>OpenClaw · Slack · n8n MCP · Claude · Lawmatics · Clio</sub>
 
@@ -188,7 +188,7 @@ Rules route and qualify; a single constrained model call scores and drafts a rep
 
 **Bidirectional case management ↔ billing**
 
-Fully deterministic sync between case management and billing with conflict resolution. CRM is source of truth — not one token spent.
+Fully deterministic sync between case management and billing with conflict resolution. CRM is source of truth: not one token spent.
 
 <sub>n8n · Clio · Filevine · Airtable</sub>
 
@@ -291,7 +291,7 @@ Multi-agent orchestrator with confidence scoring and human-in-the-loop.
 
 <h4><a href="https://github.com/lorenzespinosa/openclaw-setup-guide">openclaw-setup-guide</a></h4>
 
-Production deployment guide — identity stack, security, n8n MCP.
+Production deployment guide: identity stack, security, n8n MCP.
 
 <sub><a href="https://github.com/lorenzespinosa/openclaw-setup-guide"><img src="https://img.shields.io/github/stars/lorenzespinosa/openclaw-setup-guide?style=flat-square&color=7aa2f7&labelColor=0d1117&label=%E2%98%85" /></a></sub>
 
@@ -300,7 +300,7 @@ Production deployment guide — identity stack, security, n8n MCP.
 
 <h4><a href="https://github.com/lorenzespinosa/airtable-automation-toolkit">airtable-automation-toolkit</a></h4>
 
-Python toolkit — DLQ, audit logging, PII masking, staging sync.
+Python toolkit, DLQ, audit logging, PII masking, staging sync.
 
 <sub><a href="https://github.com/lorenzespinosa/airtable-automation-toolkit"><img src="https://img.shields.io/github/stars/lorenzespinosa/airtable-automation-toolkit?style=flat-square&color=7aa2f7&labelColor=0d1117&label=%E2%98%85" /></a></sub>
 
@@ -309,7 +309,7 @@ Python toolkit — DLQ, audit logging, PII masking, staging sync.
 
 <h4><a href="https://github.com/lorenzespinosa/openphone-n8n-connector">openphone-n8n-connector</a></h4>
 
-OpenPhone + n8n — missed calls, SMS, call logging. TCPA compliant.
+OpenPhone + n8n, missed calls, SMS, call logging. TCPA compliant.
 
 <sub><a href="https://github.com/lorenzespinosa/openphone-n8n-connector"><img src="https://img.shields.io/github/stars/lorenzespinosa/openphone-n8n-connector?style=flat-square&color=7aa2f7&labelColor=0d1117&label=%E2%98%85" /></a></sub>
 
@@ -369,7 +369,7 @@ flowchart TD
 </td>
 <td valign="top" width="33%">
 
-**AI — Where It Earns Its Keep**
+**AI: Where It Earns Its Keep**
 
 <img src="https://img.shields.io/badge/Hybrid%20Routing-0d1117?style=flat-square&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/Semantic%20Cache-0d1117?style=flat-square&logoColor=7aa2f7" />
@@ -448,15 +448,15 @@ flowchart TD
 <br>
 
 <p align="center">
-  <sub><i>"I'm not here to bolt AI onto everything. I fix the process, cut the bloat, and put AI exactly where it earns its keep — so what you ship is reliable, private, and worth paying for."</i></sub>
+  <sub><i>"I'm not here to bolt AI onto everything. I fix the process, cut the bloat, and put AI exactly where it earns its keep: so what you ship is reliable, private, and worth paying for."</i></sub>
 </p>
 
 <br>
 
-<h3 align="center">Drowning in tools and subscriptions — or a process that still eats hours? Let's fix it.</h3>
+<h3 align="center">Drowning in tools and subscriptions, or a process that still eats hours? Let's fix it.</h3>
 
 <p align="center">
-  <sub>Tell me your <b>goal</b>, the <b>tools involved</b>, and your <b>timeline</b> — I'll reply with whether it's a fit and the fastest path to ship it.</sub>
+  <sub>Tell me your <b>goal</b>, the <b>tools involved</b>, and your <b>timeline</b>, I'll reply with whether it's a fit and the fastest path to ship it.</sub>
 </p>
 
 <p align="center">
