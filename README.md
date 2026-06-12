@@ -1,5 +1,5 @@
 <a href="https://github.com/lorenzespinosa">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=220&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=Automation%20Architect%20%E2%94%82%20n8n%20%26%20AI%20Agent%20Developer%20%E2%94%82%20Self-Hosted%20%26%20Reliable&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=220&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=AI%20Systems%20%26%20Automation%20Architect%20%E2%94%82%20n8n%20%26%20AI%20Agent%20Developer%20%E2%94%82%20Self-Hosted&descSize=15&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 </a>
 
 <p align="center">
@@ -44,7 +44,7 @@ apiVersion: automation/v1
 kind: Engineer
 metadata:
   name: Lorenz Leslie Espinosa
-  role: Automation Architect — n8n & AI Agent Developer
+  role: AI Systems & Automation Architect — n8n & AI Agent Developer
 spec:
   orgs:
     - name: Leppard Law
