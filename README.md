@@ -59,6 +59,7 @@ spec:
   ai_usage:               # placed where it earns its keep, not bolted on
     production: LLOpenClaw v5.0, Slack ops bot, AI agents + human-in-the-loop
     discipline: 21 MCP tools via n8n, deterministic core, AI only where it pays off
+    agentops: [evals on agent outputs, guardrails, observability, bias/drift monitoring]  # LLMOps discipline
     efficiency: [semantic caching, hybrid model routing, local/edge inference]
     models: cheapest capable model per task, no slop, no surprise bills
   exploring: [Qdrant local RAG, local SLMs (Phi/Qwen), Temporal workflows, edge inference]
@@ -108,7 +109,7 @@ Fixed-scope automation built end-to-end: trigger → validate → process → in
 
 <h3>🤖 AI Agents &amp; Orchestration</h3>
 
-AI agents that do real ops work, wired to the right tools, gated by human approval, and kept efficient so they don't sprawl or run up surprise bills. AI placed where it earns its keep, not bolted onto everything.
+AI agents that do real ops work, wired to the right tools, gated by human approval, with evals and guardrails so they stay reliable and don't sprawl or run up surprise bills. AI placed where it earns its keep, not bolted onto everything.
 
 <sub>Custom · for teams putting AI into production</sub>
 
@@ -210,7 +211,7 @@ Fully deterministic sync between case management and billing with conflict resol
 | **Discord-Jira Issue Bridge** | Community issues auto-flow into project tracking | **100+ issues/month**, zero manual entry |
 | **Community Security System** | Automated phishing, scam bot, impersonation detection | Member retention **+25%** |
 | **Martech Data Pipeline** | Unified 1.5TB event data across 6 clients for campaigns | Email CTR **+30%**, churn **-18%** |
-| **LLM Compliance Monitor** | AI-RMF aligned pipeline monitoring 100+ agents for bias/drift | **100% regulatory approval** (EU + US) |
+| **LLM Compliance Monitor** | AI-RMF aligned eval + guardrail pipeline monitoring 100+ agents for bias/drift | **100% regulatory approval** (EU + US) |
 
 </details>
 
@@ -377,6 +378,9 @@ flowchart TD
 <img src="https://img.shields.io/badge/Claude%20(capped)-0d1117?style=flat-square&logo=anthropic&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/MCP%20Servers-0d1117?style=flat-square&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Evals%20%26%20Guardrails-0d1117?style=flat-square&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/LLMOps%20%2F%20AgentOps-0d1117?style=flat-square&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=7aa2f7" />
 
 </td>
 <td valign="top" width="33%">
