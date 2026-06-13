@@ -381,6 +381,8 @@ flowchart TD
 <img src="https://img.shields.io/badge/Evals%20%26%20Guardrails-0d1117?style=flat-square&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/LLMOps%20%2F%20AgentOps-0d1117?style=flat-square&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/AutoGen-0d1117?style=flat-square&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0d1117?style=flat-square&logo=microsoftazure&logoColor=7aa2f7" />
 
 </td>
 <td valign="top" width="33%">
@@ -409,6 +411,7 @@ flowchart TD
   <img src="https://img.shields.io/badge/ICSI-Network%20Security-0d1117?style=flat-square&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/ServiceNow-IT%20Leadership-0d1117?style=flat-square&logo=servicenow&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/Microsoft-Gen%20AI%20Essentials-0d1117?style=flat-square&logo=microsoft&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/AutoGen-AI%20Agents-0d1117?style=flat-square&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/Google-Gen%20AI%20Fundamentals-0d1117?style=flat-square&logo=googlecloud&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-0d1117?style=flat-square&logo=amazonwebservices&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/HubSpot-Marketing%20Automation-0d1117?style=flat-square&logo=hubspot&logoColor=7aa2f7" />
