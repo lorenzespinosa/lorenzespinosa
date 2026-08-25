@@ -1,10 +1,10 @@
-
-# AI working files
-CLAUDE.md
-.planning/
-.gsd/
-
-# Environment
-.env
-.env.*
-!.env.example
+.playwright-cli/
+airtable-automation-toolkit/
+n8n-ai-agent-delegator/
+n8n-error-handling-pattern/
+n8n-legal-ops-templates/
+n8n-lint/
+openclaw-n8n-stack/
+openclaw-setup-guide/
+openphone-n8n-connector/
+/*.yml
