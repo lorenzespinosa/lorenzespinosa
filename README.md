@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Lorenz Leslie Espinosa — IT Systems and Automation Consultant" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=200&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=IT%20Systems%20%26%20Automation%20Consultant&descSize=17&descColor=8b949e&descAlignY=57" />
+  <img width="100%" alt="Lorenz Leslie Espinosa — IT Systems and Automation Consultant" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=200&section=header&text=Lorenz%20Leslie%20Espinosa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=IT%20Systems%20and%20Automation%20Consultant&descSize=17&descColor=8b949e&descAlignY=57" />
 </div>
 
 <p align="center"><strong>I connect the business tools your team already uses—and help keep the handoffs working after launch.</strong></p>
