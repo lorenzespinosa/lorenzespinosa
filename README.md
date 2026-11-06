@@ -23,6 +23,7 @@ My background in IT support and systems administration helps me think beyond a w
 ## Public work you can inspect
 
 - **[n8n-lint](https://github.com/lorenzespinosa/n8n-lint)** is a JavaScript CLI that checks n8n workflow files for schema problems, likely exposed credential strings and common mistakes before import. The repository includes examples, tests and CI instructions.
+- **[depsweep](https://github.com/lorenzespinosa/depsweep)** is a Python CLI that upgrades in-range npm dependencies across many git repositories in one pass. It skips dirty repositories, lists major versions instead of installing them, runs each project's own tests and reverts automatically when they fail. The repository includes 99 offline tests.
 
 Client work is confidential. The repository above shows a tool I wrote and tested, not a client's systems, records or results.
 
