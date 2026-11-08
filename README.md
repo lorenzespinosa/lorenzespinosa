@@ -27,7 +27,7 @@ My background in IT support and systems administration helps me think beyond a w
 - **[n8n-audit](https://github.com/lorenzespinosa/n8n-audit)** scores exported n8n workflows 0-100 across five categories (error handling, credential hygiene, naming, complexity, hygiene) and writes plain reports in markdown, HTML or JSON. 95 offline tests, zero runtime dependencies.
 - **[n8n-antipatterns](https://github.com/lorenzespinosa/n8n-antipatterns)** is a cited catalog of 30 recurring n8n workflow mistakes with symptom, fix, and lint coverage. Every entry cites a live-checked public source.
 
-Client work is confidential. The repository above shows a tool I wrote and tested, not a client's systems, records or results.
+Client work is confidential. The repositories above are tools I wrote and tested, not a client's systems, records or results.
 
 ## Start with one handoff
 
