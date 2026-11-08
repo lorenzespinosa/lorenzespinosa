@@ -24,6 +24,8 @@ My background in IT support and systems administration helps me think beyond a w
 
 - **[n8n-lint](https://github.com/lorenzespinosa/n8n-lint)** is a JavaScript CLI that checks n8n workflow files for schema problems, likely exposed credential strings and common mistakes before import. The repository includes examples, tests and CI instructions.
 - **[depsweep](https://github.com/lorenzespinosa/depsweep)** is a Python CLI that upgrades in-range npm dependencies across many git repositories in one pass. It skips dirty repositories, lists major versions instead of installing them, runs each project's own tests and reverts automatically when they fail. The repository includes 99 offline tests.
+- **[n8n-audit](https://github.com/lorenzespinosa/n8n-audit)** scores exported n8n workflows 0-100 across five categories (error handling, credential hygiene, naming, complexity, hygiene) and writes plain reports in markdown, HTML or JSON. 95 offline tests, zero runtime dependencies.
+- **[n8n-antipatterns](https://github.com/lorenzespinosa/n8n-antipatterns)** is a cited catalog of 30 recurring n8n workflow mistakes with symptom, fix, and lint coverage. Every entry cites a live-checked public source.
 
 Client work is confidential. The repository above shows a tool I wrote and tested, not a client's systems, records or results.
 
